@@ -1,0 +1,7 @@
+interface:
+  display_name: "offer先生校招数据"
+  short_description: "查询真实、持续更新的校招机会，并返回时间、岗位与可验证来源"
+  brand_color: "#FC1F30"
+  default_prompt: "使用 $offer-campus-recruit 查询符合我条件的最近更新校招机会。"
+policy:
+  allow_implicit_invocation: true
